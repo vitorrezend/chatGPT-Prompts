@@ -1,0 +1,15 @@
+Me escreva um artigo sobre primeiros passos no Docker, em tom de conversa com uma criança de 10 anos. Agora, use os itens em {RESUMO} para {ROTEIRO} seguindo as {REGRAS}
+
+{RESUMO}
+[Autoridade]: Felipe, desenvolvedor FullStack
+[Avatar]: Desenvolvedores Juniors
+[Problema]: Como instalar o Docker
+
+{Roteiro}
+Olá, eu sou [Autoridade] e vou ajudar o [Avatar]
+Hoje vamos resolver o [Problema]
+
+{Regras}
+> Siga o {ROTEIRO} acima e substitua os elementos entre [ ] por aqueles listados em {RESUMO} acima.
+> Mantenha o tom e Ritmo, mas reescreva as palavras em {ROTEIRO} para que seja diferente do original, expandindo ou mudando conforme necessário.
+> Use analogias simples e hipérboles
